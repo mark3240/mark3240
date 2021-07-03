@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mark3240
 - 👀 I’m interested in discord bot's source codes.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on kpop card game discord bot. 
+- 💞️ I’m looking for a experienced coder to work together with for my kpop card game discord bot. 
 - 📫 How to reach me? DM me on discord .mark#3240
 
 <!---
